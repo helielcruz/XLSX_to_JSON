@@ -1,0 +1,28 @@
+@charset "Utf-8";
+
+#chartdiv {
+width: 70%;
+height: 500px;
+}
+
+.page{
+font-family: Arial, Helvetica, sans-serif;
+color: bisque;
+text-align: center;
+background: -webkit-linear-gradient(left, #818dce, #43424c);
+background: -moz-linear-gradient(left, #818dce, #43424c);
+background: -ms-linear-gradient(left, #818dce, #43424c);
+background: -o-linear-gradient(left, #818dce, #43424c);
+background: linear-gradient(to right, #818dce, #43424c);
+/* background: -webkit-linear-gradient(left, #818dce, #000000);
+background: -moz-linear-gradient(left, #818dce, #000000);
+background: -ms-linear-gradient(left, #818dce, #000000);
+background: -o-linear-gradient(left, #818dce, #000000);
+background: linear-gradient(to right, #818dce, #000000); */
+}
+
+.subtitles{
+    color: bisque;
+    text-align: left;
+    margin-left: 2%;
+}
